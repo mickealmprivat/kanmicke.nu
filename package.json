@@ -1,0 +1,45 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Very basic starter-kit for React apps with webpack, babel, css and image loaders",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickealmprivat/react-starter.git"
+  },
+  "keywords": [
+    "finance",
+    "money",
+    "react",
+    "momentjs"
+  ],
+  "author": "Micke Alm <mickealmcrap@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickealmprivat/react-starter/issues"
+  },
+  "homepage": "https://github.com/mickealmprivat/react-starter#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.27.3",
+    "file-loader": "^0.10.1",
+    "html-webpack-plugin": "^2.9.0",
+    "image-webpack-loader": "^3.2.0",
+    "style-loader": "^0.16.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
