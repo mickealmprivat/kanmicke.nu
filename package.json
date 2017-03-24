@@ -1,7 +1,7 @@
 {
-  "name": "react-starter",
+  "name": "kanmicke.nu",
   "version": "1.0.0",
-  "description": "Very basic starter-kit for React apps with webpack, babel, css and image loaders",
+  "description": "Har Micke barnen, och när?",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -9,20 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mickealmprivat/react-starter.git"
+    "url": "git+https://github.com/mickealmprivat/kanmicke.nu.git"
   },
-  "keywords": [
-    "finance",
-    "money",
-    "react",
-    "momentjs"
-  ],
+  "keywords": [],
   "author": "Micke Alm <mickealmcrap@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mickealmprivat/react-starter/issues"
+    "url": "https://github.com/mickealmprivat/kanmicke.nu/issues"
   },
-  "homepage": "https://github.com/mickealmprivat/react-starter#readme",
+  "homepage": "https://github.com/mickealmprivat/kanmicke.nu#readme",
   "dependencies": {
     "moment": "^2.18.1",
     "react": "^0.14.7",

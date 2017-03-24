@@ -1,0 +1,3 @@
+header { color: white; font-family: Georgia, serif; padding: 20px; position: relative; }
+header.is-available { background-color: #95c532; }
+header.is-unavailable { background-color: #ef4f91; }

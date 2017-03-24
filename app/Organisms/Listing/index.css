@@ -1,0 +1,6 @@
+.list-item-container {
+    display: flex;
+    flex-flow: row no-wrap;
+    list-style: none;
+    padding: 0;
+}

@@ -1,0 +1,7 @@
+.list-item {
+    color: #fff;
+    float: left;
+}
+.list-item__header {
+    text-transform: capitalize;
+}

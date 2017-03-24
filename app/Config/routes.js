@@ -6,7 +6,7 @@ var Route= ReactRouter.Route;
 var hashHistory = ReactRouter.hashHistory;
 var IndexRoute = ReactRouter.IndexRoute;
 
-//var Main = require('../Organisms/DayCountersWrapper/indexContainer');
+var Main = require('../Views/Main');
 
 var Routes = (
     <Router history={hashHistory}>
