@@ -6,11 +6,11 @@ var Route= ReactRouter.Route;
 var hashHistory = ReactRouter.hashHistory;
 var IndexRoute = ReactRouter.IndexRoute;
 
-var Main = require('../Views/Main');
+var Calendar = require('../Views/Calendar');
 
 var Routes = (
     <Router history={hashHistory}>
-        <Route path="/" component={Main}>
+        <Route path="/" component={Calendar}>
         </Route>
     </Router>
 );
